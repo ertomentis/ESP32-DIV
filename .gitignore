@@ -1,0 +1,11 @@
+# PlatformIO build output and IDE metadata
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.clangd/
+compile_commands.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
